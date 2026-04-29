@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ✨ AI enthusiast currently pursuing **MSc in Artificial Intelligence Systems @ EPITA (Paris)**
 ✨ Passionate about solving real-world problems using **Machine Learning & Data**
